@@ -1,16 +1,16 @@
-Initial: A = 5 , B = 3 , SUM = 0
+Initial: a = 5 , b = 3 , sum = 0
 
 Step 1:
-Before: SUM = 0
-Operation: SUM = SUM + A → 5
+Before: sum = 0
+Operation: sum = sum + A > 5
 
 Step 2:
-Before: SUM = 5
-Operation: SUM = SUM + A → 10
+Before: sum = 5
+Operation: sum = sum + a > 10
 
 Step 3:
-Before: SUM = 10
-Operation: SUM = SUM + A → 15
+Before: sum = 10
+Operation: sum = sum + a > 15
 
 Final Output: 15
 
